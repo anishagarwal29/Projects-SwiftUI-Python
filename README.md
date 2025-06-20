@@ -1,6 +1,8 @@
 # SwiftUIProjects
 
-<table>
+**Client Expense Tracker **
+
+<table border="0">
   <tr>
     <td>
       <strong>ClientExpenseTrackerApp</strong><br><br>
@@ -17,8 +19,6 @@
     </td>
   </tr>
 </table>
-
-
 
 
 **GroceryList / Paws / Checklist**
