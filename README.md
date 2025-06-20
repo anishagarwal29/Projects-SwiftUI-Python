@@ -50,7 +50,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/796d27b2-e13a-4323-acd5-4801e524ba1" width="180" style="margin-right:10px;" />
+      <img src="https://github.com/user-attachments/assets/58362b80-fd6d-4782-8ec9-bf8e5df719fd" width="180" style="margin-right:10px;" />
       <img src="https://github.com/user-attachments/assets/a5e3ea03-e20f-47bd-89a1-4865d3215768" width="180" />
     </td>
   </tr>
