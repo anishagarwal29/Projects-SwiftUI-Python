@@ -12,12 +12,17 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/228e8ffc-232d-4550-a0a7-a5429b46daa3" width="250" />
+      <img src="https://github.com/user-attachments/assets/228e8ffc-232d-4550-a0a7-a5429b46daa3" width="180" style="margin-right:10px;" />
+      <img src="https://github.com/user-attachments/assets/de4215cf-77ca-4081-94b6-49b33d1e6cb2" width="180" />
     </td>
   </tr>
 </table>
 
+
+
+
 **GroceryList / Paws / Checklist**
+
 
 Projects built while following this Udemy SwiftUI Masterclass (https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) to explore:
 - UI layout and SwiftUI design patterns
