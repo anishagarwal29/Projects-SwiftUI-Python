@@ -70,7 +70,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/76706782-1ec5-410b-ad80-2e208eb19fd4" width="180" style="margin-right:10px;" />
+      <img src="https://github.com/user-attachments/assets/592bd509-9b6f-4d92-be49-8c175fe6098e" width="180" style="margin-right:10px;" />
       <img src="https://github.com/user-attachments/assets/8237ccdd-ebb7-450b-b0f4-71178fea6bb7" width="180" />
     </td>
   </tr>
