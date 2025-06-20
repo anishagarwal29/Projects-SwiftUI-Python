@@ -1,6 +1,4 @@
-# SwiftUIProjects
-
-**Client Expense Tracker **
+## SwiftUI Projects
 
 <table border="0">
   <tr>
@@ -20,13 +18,60 @@
   </tr>
 </table>
 
+<br>
 
-**GroceryList / Paws / Checklist**
+<table border="0">
+  <tr>
+    <td>
+      <strong>GroceryList</strong><br><br>
+      A basic SwiftUI project focused on list layout and UI design:
+      <ul>
+        <li>Built while following the SwiftUI Masterclass Udemy course</li>
+        <li>Explored SwiftData and layout structuring</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/133ab5fe-014c-47d4-a57a-8e7323e94258" width="200" />
+    </td>
+  </tr>
+</table>
 
+<br>
 
-Projects built while following this Udemy SwiftUI Masterclass (https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) to explore:
-- UI layout and SwiftUI design patterns
-- SwiftData integration
-- Created list layouts
-- Implemented image picker to let users select and save photos (e.g., pets)
-- Built a movie watchlist app that saves titles along with their genres. Also allows to randomise the movies and pick one for the user to watch. 
+<table border="0">
+  <tr>
+    <td>
+      <strong>Paws</strong><br><br>
+      A pet info saving app built while learning:
+      <ul>
+        <li>How to use the Image Picker with SwiftUI</li>
+        <li>Saving user-selected photos (e.g., pets)</li>
+        <li>SwiftData for persistent pet records</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/796d27b2-e13a-4323-acd5-4801e524ba1" width="180" style="margin-right:10px;" />
+      <img src="https://github.com/user-attachments/assets/a5e3ea03-e20f-47bd-89a1-4865d3215768" width="180" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table border="0">
+  <tr>
+    <td>
+      <strong>Watchlist App</strong><br><br>
+      A movie tracking app with:
+      <ul>
+        <li>Ability to add movie names and genres</li>
+        <li>Random movie picker for user to watch</li>
+        <li>Simple and clean SwiftUI layout</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/76706782-1ec5-410b-ad80-2e208eb19fd4" width="180" style="margin-right:10px;" />
+      <img src="https://github.com/user-attachments/assets/8237ccdd-ebb7-450b-b0f4-71178fea6bb7" width="180" />
+    </td>
+  </tr>
+</table>
