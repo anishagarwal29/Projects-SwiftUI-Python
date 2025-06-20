@@ -1,15 +1,21 @@
 # SwiftUIProjects
 
-**ClientExpenseTrackerApp**
-
-A custom-built app to track items sold with:
-- TextFields for client name, amount, and date
-- Features to duplicate, edit, or delete records
-- Data persistence handled using SwiftData
-  
-
-<img src="https://github.com/user-attachments/assets/228e8ffc-232d-4550-a0a7-a5429b46daa3" width="300" />
-
+<table>
+  <tr>
+    <td>
+      <strong>ClientExpenseTrackerApp</strong><br><br>
+      A custom-built app to track items sold with:
+      <ul>
+        <li>TextFields for client name, amount, and date</li>
+        <li>Features to duplicate, edit, or delete records</li>
+        <li>Data persistence handled using SwiftData</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/228e8ffc-232d-4550-a0a7-a5429b46daa3" width="250" />
+    </td>
+  </tr>
+</table>
 
 **GroceryList / Paws / Checklist**
 
