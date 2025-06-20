@@ -6,8 +6,9 @@ A custom-built app to track items sold with:
 - TextFields for client name, amount, and date
 - Features to duplicate, edit, or delete records
 - Data persistence handled using SwiftData
+  
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-20 at 12 39 15](https://github.com/user-attachments/assets/228e8ffc-232d-4550-a0a7-a5429b46daa3)
+<img src="https://github.com/user-attachments/assets/228e8ffc-232d-4550-a0a7-a5429b46daa3" width="300" />
 
 
 **GroceryList / Paws / Checklist**
