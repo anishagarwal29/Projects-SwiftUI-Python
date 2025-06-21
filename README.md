@@ -1,8 +1,9 @@
+A collection of projects built using SwiftUI and Python, some fully custom, some guided by tutorials to strengthen my app development skills.
+
 ## Contents
 - [SwiftUI Projects](#swiftui-projects)
 - [Python Projects](#python-projects)
 
-A collection of projects built using SwiftUI and Python, some fully custom, some guided by tutorials to strengthen my app development skills.
 
 ## SwiftUI Projects
 
