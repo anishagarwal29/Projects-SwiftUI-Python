@@ -1,12 +1,12 @@
 ## SwiftUI Projects
 
-A collection of SwiftUI and Python projects showcasing my journey in app development—ranging from custom-built utilities to tutorial-based learning.
+A collection of projects built using SwiftUI and Python—some fully custom, some guided by tutorials—to strengthen my app development skills.
 
 ## Contents
 - [SwiftUI Projects](#swiftui-projects)
 - [Python Projects](#python-projects)
 
-- [View Snake game code](Python/Snake/snake.py)
+---
 
 <table border="0">
   <tr>
@@ -85,13 +85,11 @@ A collection of SwiftUI and Python projects showcasing my journey in app develop
     </td>
   </tr>
 </table>
-
+---
 
 ## Python Projects
 
-
-**These projects were created while following this SwiftUI Udemy course:**  
-https://www.udemy.com/course/100-days-of-code/
+[Python Bootcamp - 100 Days of code](https://www.udemy.com/course/100-days-of-code/)
 
 **Snake Game / Ping Pong**
 - Among my first Python projects using Turtle and other core libraries
