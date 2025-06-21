@@ -79,4 +79,29 @@
 
 ## Python Projects
 
+Udemy Course Link: https://www.udemy.com/course/100-days-of-code/
+
+**Snake Game / Ping Pong**
+- Among my first Python projects using Turtle and other core libraries
+- Learned how to handle user input (e.g., WASD keys)
+- Explored how basic 2D games work in Python
+- Gained experience with game loops, collision detection, and object movement
+
+**U.S. States Game / Flashcards**
+- Built interactive educational apps using images and Turtle
+- Implemented score tracking and user input handling
+- Learned how to map clicks or text input to visual elements
+- Strengthened understanding of Python libraries like pandas, turtle, and random
+
+  
+
+
+
+
+
+
+
+
+
+
 
