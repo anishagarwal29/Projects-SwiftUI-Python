@@ -28,7 +28,7 @@ A collection of projects built using SwiftUI and Python, some fully custom, some
 <br>
 
 **These projects were created while following this SwiftUI Udemy course:**  
-[SwiftUI Masterclass on Udemy](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/)
+<a href="https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/" target="_blank">SwiftUI Masterclass on Udemy</a>
 
 <table border="0">
   <tr>
@@ -89,7 +89,7 @@ A collection of projects built using SwiftUI and Python, some fully custom, some
 ## Python Projects
 
 **These projects were created while following this SwiftUI Udemy course:**  
-[Python Bootcamp - 100 Days of code](https://www.udemy.com/course/100-days-of-code/)
+<a href="https://www.udemy.com/course/100-days-of-code/" target="_blank">SwiftUI Masterclass on Udemy</a>
 
 **Snake Game / Ping Pong**
 - Among my first Python projects using Turtle and other core libraries
