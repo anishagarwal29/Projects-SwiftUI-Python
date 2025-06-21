@@ -28,6 +28,7 @@ A collection of projects built using SwiftUI and Python—some fully custom, som
 
 <br>
 
+**These projects were created while following this SwiftUI Udemy course:**  
 [SwiftUI Masterclass on Udemy](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/)
 
 <table border="0">
@@ -89,6 +90,7 @@ A collection of projects built using SwiftUI and Python—some fully custom, som
 
 ## Python Projects
 
+**These projects were created while following this SwiftUI Udemy course:**  
 [Python Bootcamp - 100 Days of code](https://www.udemy.com/course/100-days-of-code/)
 
 **Snake Game / Ping Pong**
