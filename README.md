@@ -6,7 +6,6 @@ A collection of projects built using SwiftUI and Python—some fully custom, som
 - [SwiftUI Projects](#swiftui-projects)
 - [Python Projects](#python-projects)
 
----
 
 <table border="0">
   <tr>
@@ -86,7 +85,6 @@ A collection of projects built using SwiftUI and Python—some fully custom, som
     </td>
   </tr>
 </table>
----
 
 ## Python Projects
 
