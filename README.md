@@ -1,6 +1,12 @@
 ## SwiftUI Projects
 
+A collection of SwiftUI and Python projects showcasing my journey in app development—ranging from custom-built utilities to tutorial-based learning.
 
+## Contents
+- [SwiftUI Projects](#swiftui-projects)
+- [Python Projects](#python-projects)
+
+- [View Snake game code](Python/Snake/snake.py)
 
 <table border="0">
   <tr>
@@ -22,8 +28,7 @@
 
 <br>
 
-**These projects were created while following this SwiftUI Udemy course:**  
-https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/
+[SwiftUI Masterclass on Udemy](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/)
 
 <table border="0">
   <tr>
