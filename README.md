@@ -1,5 +1,7 @@
 ## SwiftUI Projects
 
+
+
 <table border="0">
   <tr>
     <td>
@@ -19,6 +21,9 @@
 </table>
 
 <br>
+
+**These projects were created while following this SwiftUI Udemy course:**  
+https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/
 
 <table border="0">
   <tr>
@@ -79,7 +84,9 @@
 
 ## Python Projects
 
-Udemy Course Link: https://www.udemy.com/course/100-days-of-code/
+
+**These projects were created while following this SwiftUI Udemy course:**  
+https://www.udemy.com/course/100-days-of-code/
 
 **Snake Game / Ping Pong**
 - Among my first Python projects using Turtle and other core libraries
