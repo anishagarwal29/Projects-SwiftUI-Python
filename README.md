@@ -27,6 +27,12 @@ A collection of projects built using SwiftUI and Python, some fully custom, some
 
 <br>
 
+VStack{
+Text("Hello)
+Text("Hi")
+}
+
+
 **These projects were created while following this SwiftUI Udemy course:**  
 <a href="https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/" target="_blank">SwiftUI Masterclass on Udemy</a>
 
